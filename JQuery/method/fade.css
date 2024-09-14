@@ -1,0 +1,14 @@
+div {
+    width: 200px;
+    height: 200px;
+    display: none;
+}
+div#a {
+    background-color:  #FFAB40;
+}
+div#b {
+    background-color: #80CBC4;
+}
+div#c {
+    background-color: #D4E157;
+}

@@ -1,0 +1,13 @@
+body{
+    margin: 0;;
+}
+
+.ani_box{
+    width: 100px;
+    height: 100px;
+    font-size: 1rem;
+    background-color:#8FBC8F;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
